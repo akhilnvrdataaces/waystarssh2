@@ -1,6 +1,6 @@
 connection: "mysql-server"
 label: "akhil-practice"
-
+#test ing
 # include all the views
 include: "/views/**/*.view"
 
